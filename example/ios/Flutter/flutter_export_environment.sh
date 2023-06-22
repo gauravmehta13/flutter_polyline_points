@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\Users\Administrator\fvm\versions\stable"
-export "FLUTTER_APPLICATION_PATH=C:\Users\Administrator\Desktop\flutter_polyline_points\example"
+export "FLUTTER_ROOT=C:\android\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Projects\Bakeral\plugins\flutter_polyline_points\example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
